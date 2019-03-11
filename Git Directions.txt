@@ -6,3 +6,10 @@ git status
 git add (file name or . for everything)
 git commit -m "the message you wish to save with it"
 git push origin master
+
+Creating/ Working in branches
+git branch
+git branch newbranchname
+git branch (to verify your new branch)
+(switching to branch) git checkout nameofbranch
+git branch (to verify what branch your in, if green, you have it selected)
