@@ -1,0 +1,8 @@
+Git hub Steps
+Open Git Bash
+navigate to folder
+(new) clone repository
+git status
+git add (file name or . for everything)
+git commit -m "the message you wish to save with it"
+git push origin master
