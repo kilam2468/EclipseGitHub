@@ -1,6 +1,7 @@
 // Lab 2: GradeBookTest.java
 // GradeBook constructor used to specify the course name at the
  // time each GradeBook object is created.
+//Uses Gradebook Object with Gradebook.java
 
  public class GradeBookDemo
 	{
