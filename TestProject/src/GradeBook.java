@@ -12,9 +12,7 @@
 	} // end constructor
 
 	// method to set the course name
-	public void setCourseName( String name )
-	{
-	courseName = name; // store the course name
+	public void setCourseName( String name ) { courseName = name; // store the course name
 	} // end method setCourseName
 
 	// method to retrieve the course name
